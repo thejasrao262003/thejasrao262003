@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="Thejas Rao GitHub Banner" />
+</p>
 <h1 align="center">Hey, I'm Thejas 👋</h1>
 <p align="center">
   <em>AI Engineer | Full-Stack DevOps | ML/DL Researcher | Final Year CSE at PES University</em>
